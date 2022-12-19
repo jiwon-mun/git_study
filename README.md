@@ -1,1 +1,1 @@
-# gt_study
+# git_study
