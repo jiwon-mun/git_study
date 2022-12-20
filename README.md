@@ -8,3 +8,4 @@ git log --format="%H" -n 1
 
 1
 2
+3!!
